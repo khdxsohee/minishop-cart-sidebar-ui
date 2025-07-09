@@ -77,3 +77,9 @@ This project is licensed under the MIT License.
 
 ---
 Designed with ❤️ by khdxsohee
+
+---
+
+## 13\. Author Information
+
+  * **Created by:** khdxsohee
